@@ -14,4 +14,6 @@ Com o arquivo dados.csv gerado, só rodar o script para gerar as informações n
 
 Caso queira modificar qualquer campo, só copiar o XPATH do dado a ser raspado.
 
+Há um arquivo dados.csv para exemplo de como o arquivo deve ser gerado. 
+
 Obs: Dependendo do tamanho dos dados a ser raspado, pode levar um tempo consideravel. Então faça com tempo. 
