@@ -4,10 +4,13 @@ Código para raspagem de dados no site casa dos dados.
 Primeiramente é necessario gerar um arquivo com a razão social e CNPJ para gerar o link a ser raspado.
 
 Exemplo: 
+
 Esse é o link completo: https://casadosdados.com.br/solucao/cnpj/andrea-juliano-duarte-07921640000264
+
 Dados necessarios para ser gerados: andrea-juliano-duarte-07921640000264
-Onde raspar? 
-https://casadosdados.com.br/solucao/cnpj/pesquisa-avancada
+
+Onde raspar? https://casadosdados.com.br/solucao/cnpj/pesquisa-avancada
+
 Faça a raspagem dos dados na pesquisa avançada
 
 Com o arquivo dados.csv gerado, só rodar o script para gerar as informações necessarias. 
